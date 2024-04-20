@@ -1,0 +1,11 @@
+#canvas {
+  display: block;
+  margin: 0 auto;
+  width:1080px;
+  height:720px;
+
+}
+
+input {
+  opacity: 0;
+}
