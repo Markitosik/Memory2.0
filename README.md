@@ -44,10 +44,17 @@ Memory - карточная web-игра на поиск пары.
 
 
 ### Изображения из игры:
+Главный экран
 ![Главный экран](https://github.com/Markitosik/Memory2.0/blob/master/images/demostration/main_frame.png)
 
+
+Настройки цветовых тем
 ![Настройки цветовых тем](https://github.com/Markitosik/Memory2.0/blob/master/images/demostration/theme_frame.png)
 
+
+Однопользовательский режим на время
 ![Однопользовательский режим на время](https://github.com/Markitosik/Memory2.0/blob/master/images/demostration/game_time_frame.png)
 
+
+Многопользовательский режим(однопользовательский с ботом выглядит аналогично)
 ![Многопользовательский режим](https://github.com/Markitosik/Memory2.0/blob/master/images/demostration/game_friends_frame.png)
